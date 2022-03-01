@@ -6,6 +6,7 @@ import os
 from autocorrect import Speller
 
 # ---- init ----
+
 check = Speller(lang='en')
 os.system('color')
 
